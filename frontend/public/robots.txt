@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /explore
+Allow: /login
+Allow: /register
+Allow: /privacy-policy
+Allow: /terms-and-conditions
+Disallow: /api/
+
+Sitemap: https://agchat.app/sitemap.xml
